@@ -1,2 +1,2 @@
-# Python-curso-em-video
- Exercícios de Python resolvidos do Curso em vídeo.
+# Basic python by Video Course.
+ Answered Python Exercises from the Video Course.
